@@ -1,0 +1,125 @@
+.theme{
+  color: #e4c336;!important;
+  background-color:#002a3a;!important;
+}
+.title{
+  color: #000;
+  font-weight: bolder;
+}
+
+.transparent_button{
+  background-color: transparent;
+  padding: 0;!important;
+}
+.transparent_button:focus{
+  box-shadow: none;
+}
+
+.white-theme{
+  font-weight: bolder;
+  color: #03325a;
+  padding-top: 0.1rem;!important;
+  border-bottom: 1px solid black;;
+
+}
+
+.line{
+  border-bottom: 1px solid #777;
+  width: 100%;
+  margin-top: 0px;
+
+  margin-bottom: 1rem;
+  font-size: 18px
+}
+
+.theme_button{
+  color: #002a3a;!important;
+  background-color:#FFFFFF;!important;
+  border-color: #002a3a;!important;
+
+}
+.theme_button:hover{
+  color: #e4c336;!important;
+  background-color:#002a3a;!important;
+}
+.theme_button:disabled{
+  color: #002a3a;!important;
+  background-color:#FFFFFF;!important;
+  border-color: #002a3a;!important;
+}
+
+.back-end-tab{
+}
+.back-end-tab a{
+  color: black;
+}
+.nav-item a{
+  color: #e4c336;
+}
+.nav-item a:hover{
+  color: #FFFFFF;
+}
+
+
+
+.system p{
+  font-size: 15px;
+}
+.nav-tabs .nav-link {
+  border: none!important;
+}
+.nav-tabs{
+  border-bottom: none;
+}
+
+.table-striped h6{
+  color: #8FA3BA;
+}
+#detail div{
+  color: #002a3a;
+}
+.detail label{
+  color: #8FA3BA;
+}
+
+.button-yellow{
+  color: #002a3a;!important;
+  background-color:#e4c336;!important;
+  border-color: #e4c336;!important;
+
+}
+.button-yellow:hover{
+  color: #FFFFFF;!important;
+  background-color:#e4c336;!important;
+  border-color: #e4c336;!important;
+
+}
+
+.button-red{
+  color: #FFFFFF;!important;
+  background-color:#dc3545;!important;
+  border-color: #dc3545;!important;
+}
+.button-red:hover{
+  color: #FFFFFF;!important;
+  background-color:#dc3545;!important;
+  border-color: #dc3545;!important;
+}
+
+.button-blue{
+  color: #e4c336;!important;
+  background-color:#002a3a;!important;
+  border-color: #002a3a;!important;
+}
+.button-blue:hover{
+  color: #FFFFFF;!important;
+  background-color:#002a3a;!important;
+  border-color: #002a3a;!important;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+
+  display: flex;
+  align-items: center;
+}

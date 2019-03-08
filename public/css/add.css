@@ -1,0 +1,73 @@
+@media (max-width:1200px) {
+    .calc{
+        display: block;!important;
+    }
+}
+@media (min-width:1200px) {
+    .calc{
+        display: none;
+    }
+}
+
+
+@media (max-width:1200px) {
+    .calc-on{
+        display: none;!important;
+    }
+}
+@media (min-width:1200px) {
+    .calc-on{
+        display: block;
+    }
+}
+
+@media (max-width:768px) {
+    .hide-mobile{
+        display: none;!important;
+    }
+}
+@media (min-width:768px) {
+    .hide-mobile{
+        display: block;
+    }
+}
+
+
+.who_can_text{
+    color: #004164;
+    margin-left: 5%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.process{
+    width: 100%;
+    margin-left: 0;
+}
+.process-3{
+    width: 85%;
+    margin-left: 0;
+}
+
+.process-text{
+    font-size: 18px;
+}
+
+@media (max-width:768px) {
+    .process{
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .process-3{
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .process-text{
+        font-size: 30px;
+    }
+}
+.w-100{
+    width: 100%;
+}
